@@ -1542,13 +1542,14 @@
     width: 16.6px;
     height: 6.5px;
   }
-  
+
   .home {
     border-radius: 58.4px;
     background: var(--base-black, #000000);
     width: 78.2px;
     height: 2.9px;
   }
+  
   .i-phone-mockup {
     position: absolute;
     left: 0px;
@@ -1556,11 +1557,13 @@
     width: 244px;
     height: 496.2px;
   }
+
   .divider-167 {
     background: var(--gray-200, #EAECF0);
     width: 1216px;
     height: 1px;
   }
+
   .container-168 {
     margin-bottom: 64px;
     display: flex;
