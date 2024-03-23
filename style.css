@@ -1437,7 +1437,7 @@
     height: 560.2px;
     box-sizing: border-box;
   }
-  
+
   .2-screen-mockup {
     border-radius: 10px;
     position: relative;
@@ -1483,6 +1483,7 @@
     height: 474px;
     box-sizing: border-box;
   }
+
   .screen-mockup-replace-fill-156 {
     background: url('https://fn12.com/api/clusters/cluster-fn12-prod-asia-southeast1/projects/5Szh28LirjXhZrw3vSaRNw/assets/images/8808f401789483f5d0a4ace91bdf1e04452ea9f9?Expires=1711774879&KeyName=fn12-cdn&Signature=5aVXzVrDWFPQc67mhvzvoXh4zi0=') 50% / cover no-repeat;
     position: absolute;
@@ -1496,6 +1497,7 @@
     height: 474px;
     box-sizing: border-box;
   }
+
   .i-phone-mockup-status-bar {
     display: flex;
     flex-direction: row;
@@ -1535,10 +1537,12 @@
     height: 6.5px;
     box-sizing: border-box;
   }
+
   .41 {
     width: 16.6px;
     height: 6.5px;
   }
+  
   .home {
     border-radius: 58.4px;
     background: var(--base-black, #000000);
