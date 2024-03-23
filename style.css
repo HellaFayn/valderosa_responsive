@@ -1437,6 +1437,7 @@
     height: 560.2px;
     box-sizing: border-box;
   }
+  
   .2-screen-mockup {
     border-radius: 10px;
     position: relative;
@@ -1448,6 +1449,7 @@
     height: 512px;
     box-sizing: border-box;
   }
+
   .mockup-shadow {
     box-shadow: var(--shadow-3-xl, 0px 32px 64px -12px rgba(16, 24, 40, 0.14));
     background: var(--gray-900, #101828);
@@ -1455,6 +1457,7 @@
     width: 712px;
     height: 512px;
   }
+
   .screen-mockup-replace-fill-155 {
     border-radius: 10px;
     border: 1px solid var(--gray-100, #F2F4F7);
@@ -1466,6 +1469,7 @@
     width: 768px;
     height: 512px;
   }
+
   .mockup-wrap {
     background: var(--base-white, #FFFFFF);
     position: absolute;
